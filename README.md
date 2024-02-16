@@ -25,7 +25,7 @@
 
 ### :open_file_folder: MyProjects:  
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gboy555&repo=finalCapstone&theme=dark#gh-dark-mode-only)](https://github.com/hyperledger-labs/finalCapstone#gh-dark-mode-only)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gboy555&repo=finalCapstone&theme=dark#gh-dark-mode-only)](https://github.com/gboy555/finalCapstone#gh-dark-mode-only)
 
 
 
